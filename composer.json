@@ -1,4 +1,6 @@
 {
+    "name": "saudkaric/zero",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Zero\\System\\"        : "system/",
